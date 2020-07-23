@@ -14,7 +14,7 @@ Of the many hats I have worn, I've been a:
 
 I'm currently building my dev foundations in HTML, CSS, and JavaScript, but I'm not stopping there. I also enjoy art and animation on the web and am starting to learn more about these topics and am slowly developing my digital art skills. 
 
-![my octocat](https://github.com/codyrothery/codyrothery/master/octocat.png)
+![my octocat](https://github.com/codyrothery/codyrothery/blob/master/octocat.png)
 
 <!--
 **codyrothery/codyrothery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
