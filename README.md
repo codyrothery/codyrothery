@@ -8,7 +8,9 @@ Of the many hats I have worn, I've been a:
  - line cook
  - sandwich artist
  - barista
- - English teacher
+ - english teacher
+ - customer service trainer
+ - software trainer
  - executive assistant
  - project coordinator
 
